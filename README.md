@@ -7,8 +7,8 @@ I focus on **IT security** and **AI / machine learning**, with a soft spot for c
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**secure-file-share**](https://github.com/Besian04/secure-file-share) | File-sharing platform as microservices: auth (Argon2id, JWT, Google OAuth), S3 storage, expiring share links with download limits, event-driven notifications | Python · FastAPI · PostgreSQL · MinIO · RabbitMQ · Docker |
-| [**bone-fracture-detection**](https://github.com/Besian04/bone-fracture-detection) | Detects bone fractures in X-ray images, compares a custom CNN with transfer learning and explains predictions with Grad-CAM, served through a small web app | Python · PyTorch · FastAPI |
+| [**Ciphertrix**](https://github.com/Besian04/secure-file-share) | File-sharing platform as microservices: auth (Argon2id, JWT, Google OAuth), S3 storage, expiring share links with download limits, event-driven notifications | Python · FastAPI · PostgreSQL · MinIO · RabbitMQ · Docker |
+| [**FractureAI**](https://github.com/Besian04/fracture-detection) | Detects bone fractures in X-ray images, compares a custom CNN with ResNet50 transfer learning and explains predictions with Grad-CAM, served through a web app | Python · PyTorch · Flask |
 
 ### Tech I work with
 
