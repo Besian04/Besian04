@@ -9,6 +9,7 @@ I focus on **IT security** and **AI / machine learning**, with a soft spot for c
 |---|---|---|
 | [**Ciphertrix**](https://github.com/Besian04/secure-file-share) | File-sharing platform as microservices: auth (Argon2id, JWT, Google OAuth), S3 storage, expiring share links with download limits, event-driven notifications | Python · FastAPI · PostgreSQL · MinIO · RabbitMQ · Docker |
 | [**FractureAI**](https://github.com/Besian04/fracture-detection) | Detects bone fractures in X-ray images, compares a custom CNN with ResNet50 transfer learning and explains predictions with Grad-CAM, served through a web app | Python · PyTorch · Flask |
+| [**UnBored**](https://github.com/Besian04/UnBored) | Team web app that suggests activities against boredom: playlists, search & filters, ratings, DE/EN, dark mode, all client-side | JavaScript · Tailwind CSS · Local Storage |
 
 ### Tech I work with
 
